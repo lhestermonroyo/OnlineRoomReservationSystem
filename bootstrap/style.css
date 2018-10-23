@@ -1,0 +1,143 @@
+*{
+	font-family: "Segoe UI";
+}
+.navbar {
+	box-shadow: 0px 0px 3px 0px #d0d0d0;
+}
+.no-border {
+	border: none;
+}
+.img-panel {
+	height: 185px; 
+	width: 100%;
+}
+.input-group {
+	max-width: 400px;
+}
+.input-group-addon {
+	background: #fff;
+}
+/*--no border radius--*/
+.navbar, .panel, .list-group, .btn, .form-control, .alert, .modal-content, .input-group-addon{
+	border-radius: 0px;
+}
+.panel-group .panel {
+	border-radius: 0px;
+}
+/*--costumized panel--*/
+.panel {
+	box-shadow: 0px 0px 3px 0px #d0d0d0;
+}
+/*--costumized form--*/
+.form-control {
+	background: #f0f0f0;
+	resize: none;
+}
+/*--costumized margin, padding, border --*/
+.margin-lg{
+	margin: 24px 24px 24px 24px !important;
+}
+.margin-top-lg{
+	margin-top: 24px !important;
+}
+.margin-bottom-lg{
+	margin-bottom: 24px !important;
+}
+.margin-left-lg{
+	margin-left: 24px !important;
+}
+.margin-right-lg{
+	margin-right: 24px !important;
+}
+.margin{
+	margin: 12px 12px 12px 12px !important;
+}
+.margin-top{
+	margin-top: 12px !important;
+}
+.margin-bottom{
+	margin-bottom: 12px !important;
+}
+.margin-left{
+	margin-left: 12px !important;
+}
+.margin-right{
+	margin-right: 12px !important;
+}
+.margin-sm{
+	margin: 6px 6px 6px 6px !important;
+}
+.margin-top-sm{
+	margin-top: 6px !important;
+}
+.margin-bottom-sm{
+	margin-bottom: 6px !important;
+}
+.margin-left-sm{
+	margin-left: 6px !important;
+}
+.margin-right-sm{
+	margin-right: 6px !important;
+}
+
+.padding-lg{
+	padding: 24px 24px 24px 24px !important;
+}
+.padding-top-lg{
+	padding-top: 24px !important;
+}
+.padding-bottom-lg{
+	padding-bottom: 24px !important;
+}
+.padding-left-lg{
+	padding-left: 24px !important;
+}
+.padding-right-lg{
+	padding-right: 24px !important;
+}
+.padding{
+	padding: 12px 12px 12px 12px !important;
+}
+.padding-top{
+	padding-top: 12px !important;
+}
+.padding-bottom{
+	padding-bottom: 12px !important;
+}
+.padding-left{
+	padding-left: 12px !important;
+}
+.padding-right{
+	padding-right: 12px !important;
+}
+.padding-sm{
+	padding: 6px 6px 6px 6px !important;
+}
+.padding-sm-top{
+	padding-top: 6px !important;
+}
+.padding-sm-bottom{
+	padding-bottom: 6px !important;
+}
+.padding-sm-left{
+	padding-left: 6px !important;
+}
+.padding-sm-right{
+	padding-right: 6px !important;
+}
+
+.border{
+	border: 1px solid #D0CABF !important;
+}
+.border-top{
+	border-top: 1px solid #D0CABF !important;
+}
+.border-bottom{
+	border-bottom: 1px solid #D0CABF !important;
+}
+.border-left{
+	border-left: 1px solid #D0CABF !important;
+}
+.border-right{
+	border-right: 1px solid #D0CABF !important;
+}
